@@ -53,7 +53,7 @@
 
 <h2>📈 GitHub Stats</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mayur-Amale&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mayur-amale&show_icons=true&theme=tokyonight&cache_seconds=1800" />
 </p>
 
 <hr>
