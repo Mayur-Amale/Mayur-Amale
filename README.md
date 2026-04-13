@@ -1,61 +1,110 @@
----
+<hr>
 
-### 🧠 How I Work
+<h3>🚀 What I'm Building Right Now</h3>
+<p>
+I’m currently working on systems that involve backend logic and databases.
+Trying to focus more on how things work internally rather than just building UI.
+</p>
 
-I like building things step-by-step instead of rushing everything at once.  
-Currently focusing on backend and DBMS because I want to understand how systems actually work, not just how they look.
+<hr>
 
-Most of my projects are aimed at solving real problems or experimenting with ideas that aren’t very common.
+<h3>📚 Learning Approach</h3>
+<p>
+I prefer learning by building and breaking things instead of following tutorials blindly.
+If something doesn’t work, I try to debug it first before searching for answers.
+</p>
 
----
+<hr>
 
-### ⚙️ What I'm Trying to Get Better At
+<h3>🧠 Problem Solving</h3>
+<p>
+I regularly practice DSA to improve logical thinking.
+Not aiming for numbers — just trying to get better at understanding patterns and writing cleaner solutions.
+</p>
 
-- Writing cleaner backend code  
-- Designing proper database schemas (not just tables)  
-- Thinking in terms of systems, not just features  
-- Staying consistent with DSA practice  
+<hr>
 
----
+<h3>🗄️ Database Focus</h3>
+<ul>
+  <li>Understanding relationships properly</li>
+  <li>Writing better queries</li>
+  <li>Designing schemas instead of random tables</li>
+</ul>
 
-### 📌 Current Direction
+<hr>
 
-Right now, I'm trying to move from:
-> “I can build projects”  
+<h3>📌 Current Focus Area</h3>
+<ul>
+  <li>Backend development</li>
+  <li>Database design</li>
+  <li>System thinking</li>
+</ul>
 
-to  
-> “I understand how systems work internally”  
+<p>
+Trying to connect all three together while building projects.
+</p>
 
----
+<hr>
 
-### 🧩 Things I Enjoy
+<h3>⚙️ Development Style</h3>
+<ul>
+  <li>Prefer building step-by-step (not everything at once)</li>
+  <li>Commit frequently and keep things structured</li>
+  <li>Try to keep projects simple but meaningful</li>
+</ul>
 
-- Breaking down complex problems into simple logic  
-- Building projects from scratch (even if slow)  
-- Organizing tech events and competitions  
-- Learning by actually doing, not just watching  
+<hr>
 
----
+<h3>🎯 What I’m Working Towards</h3>
+<ul>
+  <li>Strong backend fundamentals</li>
+  <li>Better problem-solving ability</li>
+  <li>Ability to design complete systems, not just features</li>
+</ul>
 
-### ⚠️ What I'm Avoiding
+<hr>
 
-- Copy-paste projects  
-- Overusing tutorials  
-- Adding tech I don’t understand just for show  
+<h3>🧩 Outside Tech</h3>
+<ul>
+  <li>Trading and understanding markets</li>
+  <li>Gym</li>
+  <li>Trekking</li>
+</ul>
 
----
+<hr>
+<hr>
 
-### 🛠️ Ongoing Work
+<h3 align="left">⚙️ Tech Stack (Quick View)</h3>
 
-- Improving my Financial Digital Twin project  
-- Strengthening backend fundamentals  
-- Making my GitHub more structured and meaningful  
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react&logoColor=white"/>
+</p>
 
----
+<hr>
 
-### 🎯 Long-Term Goal
+<h3 align="center">📊 GitHub Overview</h3>
 
-Not just to get a job,  
-but to become someone who can build systems from scratch and actually understand them.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mayur-amale&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mayur-amale&theme=tokyonight" height="160"/>
+</p>
 
----
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mayur-amale&layout=compact&theme=tokyonight"/>
+</p>
+
+<hr>
+
+<h3 align="center">🐍 Contribution Snake</h3>
+
+<p align="center">
+  <img src="https://github.com/Mayur-Amale/Mayur-Amale/blob/output/github-contribution-grid-snake.svg" />
+</p>
